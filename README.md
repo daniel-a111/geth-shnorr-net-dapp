@@ -11,7 +11,7 @@ It includes setups of private network and dApp that is using Schnorr precompiled
 First clone the forked repository into this repository's root folder:
 
 ```bash
-git clone git clone https://github.com/daniel-a111/geth-schnorr.git
+git clone https://github.com/daniel-a111/geth-schnorr.git
 ls 
 ```
 
