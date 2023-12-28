@@ -12,7 +12,6 @@ First clone the forked repository into this repository's root folder:
 
 ```bash
 git clone https://github.com/daniel-a111/geth-schnorr.git
-ls 
 ```
 
 Then build the private network docker image:
