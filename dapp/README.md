@@ -4,7 +4,7 @@ This directory is a Hardhat project that includes 2
 
 This dapp includes 2 smart contracts
 
-1. [StringStorageStage1.sol](./contracts/StringsStorageStage1.sol)
+1. [StringStorage.sol](./contracts/StringsStorage.sol)
 1. [StringStorageSchnorrVerify.sol](./contracts/StringsStorageSchnorrVerify.sol)
 
 For use the contracts via the scripts above first install, and then go to stages' directories and execute the scripts:
