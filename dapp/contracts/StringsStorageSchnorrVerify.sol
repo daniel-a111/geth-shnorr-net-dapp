@@ -93,10 +93,4 @@ contract StringsStorageSchnorrVerify {
         require(!registered[msg.sender], "Sender is already registered");
         _;
     }
-
-    address owner;
-    modifier onlyOwner {
-        require(msg.sender == owner);
-        _;
-    }
 }
