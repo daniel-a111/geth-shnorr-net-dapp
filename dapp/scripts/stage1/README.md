@@ -19,7 +19,7 @@ npx hardhat --network localhost run deploy.ts
 exampled result:
 ```
 
-StringsStorageStage1 deployed to 0xe2C64CF739EE6540D58771723597554879871E5A
+StringsStorage deployed to 0xe2C64CF739EE6540D58771723597554879871E5A
 ```
 
 In this example a new contract deployed with the address ```0xe2C64CF739EE6540D58771723597554879871E5A```
